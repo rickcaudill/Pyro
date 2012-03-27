@@ -1,0 +1,36 @@
+
+<CompilerFlags>-Wall -c -O2 -fexceptions
+<LinkerFlags>
+<Target>format
+<Category>"System Tools"
+<InstallPath>/Applications/format
+<RunInTerminal>true
+<Group>Source
+<FileName>main.cpp
+<FileType>
+<FileName>application.cpp
+<FileType>
+<FileName>mainwindow.cpp
+<FileType>
+<FileName>splash.cpp
+<FileType>
+<Group>Headers
+<FileName>application.h
+<FileType>
+<FileName>mainwindow.h
+<FileType>
+<FileName>messages.h
+<FileType>
+<FileName>splash.h
+<FileType>
+<Group>Interfaces
+<FileName>mainwindow.if
+<FileType>
+<Group>Resources
+<FileName>images/icon48x48.png
+<FileType>
+<FileName>images/logo.png
+<FileType>
+<Group>Libraries
+<FileName>syllable
+<FileType>
